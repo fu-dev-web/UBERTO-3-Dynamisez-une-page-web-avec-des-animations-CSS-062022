@@ -166,7 +166,6 @@ article{
 
 .btn__container{
     position: relative;
-    left: -0.7%;
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
@@ -175,7 +174,7 @@ article{
 
 .btn__container p{
     position: relative;
-    left: -6px;
+    left: -10px;
     width: 20px;
     height: 20px;
     border-radius: 50%;
