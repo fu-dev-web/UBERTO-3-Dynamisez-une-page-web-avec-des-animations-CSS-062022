@@ -244,6 +244,7 @@ a{
     object-position: center;
     width: 100%;
     border-radius: 1.5em 1.5em 0em 0em;
+    flex: 1 0 auto;
 }
 
 .card__img p{
