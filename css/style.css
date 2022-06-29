@@ -417,6 +417,15 @@ footer p{
     flex-direction: column;
 }
 
+.m-c-elements--extended{
+    margin-top: 2em;
+    width: auto;
+    height: 22em;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
 
 .m-c-elements h5{
     position: relative;
@@ -442,6 +451,10 @@ footer p{
 .m-c-elements:nth-child(4){
     animation: fadeIn 2700ms;
     animation-delay: 350ms;
+}
+.m-c-elements:nth-child(5){
+    animation: fadeIn 3100ms;
+    animation-delay: 400ms;
 }
 
 @keyframes fadeIn{
@@ -474,7 +487,11 @@ footer p{
     animation-delay: 200ms;
 }
 .m-btn-animated:nth-child(4){
-    animation: slideIn 2700ms;
+    animation: slideIn 2750ms;
+    animation-delay: 200ms;
+}
+.m-btn-animated:nth-child(5){
+    animation: slideIn 2900ms;
     animation-delay: 200ms;
 }
 
