@@ -110,7 +110,7 @@ p{
 }
 
 .search input{
-    width: 100%;
+    width: auto;
     background-color: #eaeaea;
     border-style: none;
     text-align: center;
