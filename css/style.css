@@ -201,6 +201,7 @@ article{
 
 .btn--color:hover{
     background-color: #f5eeff;
+    box-shadow: 2px 3px 4px 2px rgb(224, 224, 224);
 }
 
 .btn--color:hover i{
